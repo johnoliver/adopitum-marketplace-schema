@@ -43,4 +43,4 @@ jobs:
       uses: actions/upload-artifact@v2.3.1
       with:
         name: example.json
-        path: adopitum-marketplace-schema/adoptium-marketplace-schema-tests/src/test/resources/net/adoptium/marketplace/schema/example.json
+        path: adoptium-marketplace-schema-tests/src/test/resources/net/adoptium/marketplace/schema/example.json
